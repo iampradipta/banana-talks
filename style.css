@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo&family=Kalam&display=swap");
+
+body {
+  font-family: "Heebo", sans-serif;
+  font-family: "Kalam", cursive;
+}
+#header {
+  background-color: rgb(226, 226, 73);
+  color: black;
+  width: 100%;
+
+  margin: auto;
+  text-align: center;
+  padding: 1rem;
+}
+.container {
+  width: 40%;
+  margin: auto;
+  align-items: center;
+  padding: 1rem;
+}
+#txt-input {
+  width: 90%;
+  height: 10vh;
+  display: block;
+
+  padding: 1rem;
+  border: 2px solid rgb(226, 226, 73);
+  border-radius: 15px;
+  background-color: black;
+  color: rgb(226, 226, 73);
+}
+
+#txt-output {
+  width: 90%;
+  height: 10vh;
+  display: block;
+
+  padding: 1rem;
+  border: 2px solid rgb(226, 226, 73);
+  border-radius: 15px;
+  background-color: rgb(226, 226, 73);
+  color: black;
+}
+#btn-translate {
+  background-color: rgb(226, 226, 73);
+  border: 1px solid rgb(226, 226, 73);
+  border-radius: 15px;
+  padding: 5px;
+  width: 100px;
+  font-family: "Heebo", sans-serif;
+  font-family: "Kalam", cursive;
+  color: black;
+  font-size: large;
+}
+.footer {
+  background-color: rgb(226, 226, 73);
+  color: black;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding: 1rem;
+}
+p {
+  margin: auto;
+  width: 600px;
+  text-align: center;
+}
