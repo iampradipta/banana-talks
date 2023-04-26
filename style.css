@@ -25,7 +25,7 @@ body {
   display: block;
 
   padding: 1rem;
-  border: 2px solid rgb(226, 226, 73);
+  border: 2px solid rgb(0, 0, 0);
   border-radius: 15px;
   background-color: black;
   color: rgb(226, 226, 73);
